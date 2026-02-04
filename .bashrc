@@ -14,7 +14,7 @@ alias del="mv -t ~/.trash/"
 alias cl="curl -L"
 alias ..="cd .."
 
-PATH=$PATH:~/tools
+PATH=$PATH:~/myDoc/tools/tplot
 
 # If not running interactively, don't do anything
 case $- in

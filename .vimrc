@@ -23,7 +23,7 @@ filetype indent plugin on
 " Enable syntax highlighting
 syntax on
 
-colorscheme darkblue 
+colorscheme slate
 
 "------------------------------------------------------------
 " Must have options {{{1
